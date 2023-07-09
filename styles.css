@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+form {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input[type="password"] {
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+#output {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#saldo {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: none;
+}
+
+#options {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
